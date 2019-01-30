@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\bin\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.deps.json
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\bin\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.runtimeconfig.json
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\bin\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\bin\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.dll
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\obj\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\obj\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\obj\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\obj\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\bin\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.pdb
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\obj\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.dll
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\Lambda_MSSQLtoS3\obj\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.pdb

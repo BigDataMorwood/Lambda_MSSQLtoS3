@@ -1,0 +1,45 @@
+{
+  "AWSTemplateFormatVersion" : "2010-09-09",
+  "Transform" : "AWS::Serverless-2016-10-31",
+  "Description" : "Reads from MSSQL using Dapper, writes objects to S3 as either CSV or JSON",
+  "Resources" : {
+    "Get" : {
+      "Type" : "AWS::Serverless::Function",
+      "Properties": {
+        "Handler": "Lambda_MSSQLtoS3::Lambda_MSSQLtoS3.Extractor::ExtractData",
+        "Runtime": "dotnetcore2.1",
+        "CodeUri": "",
+        "MemorySize": 256,
+        "Timeout": 60,
+        "Role": null,
+        "Policies": [ "AWSLambdaFullAccess" ],
+		"VpcConfig": {
+			"SecurityGroupIds": ["SecurityGroupId"],
+			"SubnetIds": [
+			  "subnetAPrivate",
+			  "subnetBPrivate",
+			  "subnetCPrivate"
+			]
+		},
+		"Events":{
+			"Timer":{
+				"Type":"Schedule",
+				"Properties":{
+					"Schedule":"rate(12 hours)"
+				}
+			}
+		},
+        "Environment" : {
+          "Variables" : {
+            "AwsAccessKey" : "awsAccessKey",
+			"AwsSecretKey" : "awsAccessKey",
+			"S3Bucket" : "awsAccessKey",
+			"OutputFilePathCSV" : "/youcanput/subdirectories/ifyouwant/customers.csv",
+			"OutputFilePathJSON" : "/youcanput/subdirectories/ifyouwant/customers.json",
+			"ConnectionString": "server={servername};Initial Catalog={database};User ID={username};Password={password}"
+          }
+        }
+      }
+    }
+  }
+}

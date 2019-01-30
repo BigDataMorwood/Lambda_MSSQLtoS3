@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\bin\Debug\netcoreapp2.1\ConsoleRunner.deps.json
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\bin\Debug\netcoreapp2.1\ConsoleRunner.runtimeconfig.json
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\bin\Debug\netcoreapp2.1\ConsoleRunner.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\bin\Debug\netcoreapp2.1\ConsoleRunner.dll
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\bin\Debug\netcoreapp2.1\ConsoleRunner.pdb
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\bin\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.dll
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\bin\Debug\netcoreapp2.1\Lambda_MSSQLtoS3.pdb
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\obj\Debug\netcoreapp2.1\ConsoleRunner.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\obj\Debug\netcoreapp2.1\ConsoleRunner.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\obj\Debug\netcoreapp2.1\ConsoleRunner.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\obj\Debug\netcoreapp2.1\ConsoleRunner.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\obj\Debug\netcoreapp2.1\ConsoleRunner.csproj.CopyComplete
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\obj\Debug\netcoreapp2.1\ConsoleRunner.dll
+C:\Users\Administrator\source\repos\Lambda_MSSQLtoS3\ConsoleRunner\obj\Debug\netcoreapp2.1\ConsoleRunner.pdb
